@@ -22,9 +22,9 @@ public class LeitorArquivo {
             System.out.println(vetor[3]);
             System.out.println(vetor[4]);
 
-            if (vetor.length ){
 
-            }
+
+
         }
     }
 }

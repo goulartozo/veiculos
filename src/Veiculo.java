@@ -1,7 +1,7 @@
 abstract class Veiculo {
-    private String marca;
-    private String modelo;
-    private String ano;
+    public   String marca;
+    public  String modelo;
+    public  String ano;
 
     public Veiculo(String marca, String modelo, String ano) {
         this.marca = marca;
